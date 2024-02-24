@@ -1,0 +1,93 @@
+Tool no 1
+
+Chat GPT for researching on any topic   https://chat.openai.com/
+
+Prompt Engineer 
+
+act as a speech coach and give me an exact script that i should follow to deliverteh ppt
+
+
+
+Tool no 2	To get PPT done directly
+
+http://gamma.app/   13 ppts a month
+
+
+
+
+tool no 3   TO read articles and paste the article link hidden behind paywall
+
+http://12ft.io/
+
+
+Tool 4
+
+https://sci-hub.se/
+
+to download a case paper thats paid, copy the heading and paste in the site
+
+
+
+Tool 5
+
+Summarize an article 
+Merlin chrome extension for chrome browser  
+https://chrome.google.com/webstore/detail/chat-with-merlin-ai-assis/camppjleccjaphfdbohjdohecfnoikec
+
+Give context to merlin by right clicking the text
+
+Merlin ext also gives an option to summarize the video on that same page
+
+
+Otter.ai: Otter.ai is an AI-powered transcription tool that converts your meetings, interviews, and lectures into searchable and shareable transcripts in real-time.
+
+Trello: Trello is a project management tool that uses AI to suggest labels, due dates, and assignments based on your project requirements. It helps you collaborate with team members and track progress efficiently.
+
+
+Tool 6
+Playgroundai
+https://playgroundai.com/
+
+
+
+Tool 7
+
+Practice for interview, zoom presentation, speech
+https://app.yoodli.ai/
+
+
+
+Tool 8
+
+coding without the knowledge
+
+https://bard.google.com/
+
+
+
+
+Tool 9
+Bugs in a code and cannot find what is wrong
+debugcode.ai
+
+
+
+Tool 10  FOrmulas for exl
+https://formula.dog/
+
+above can help to explain the formula or sql query
+
+
+
+
+Tool 11
+Find the email id and phone no of a person on linkedin
+https://www.signalhire.com/
+
+
+
+
+
+
+
+
